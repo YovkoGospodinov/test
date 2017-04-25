@@ -1,38 +1,38 @@
 {
-    "name": "node-js-getting-started",
-    "version": "0.2.6",
-    "description": "A sample Node.js app using Express 4",
-    "engines": {
-        "node": "6.10.2"
-    },
-    "main": "index.js",
-    "scripts": {
-        "start": "node index.js"
-    },
-    "dependencies": {
-        "ejs": "2.5.6",
-        "express": "4.15.2",
-        "bootstrap": "^3.3.7",
-        "browser-sync": "^2.18.8",
-        "font-awesome": "^4.7.0",
-        "gulp": "^3.9.1",
-        "gulp-clean-css": "^3.0.4",
-        "gulp-header": "^1.8.8",
-        "gulp-less": "^3.3.0",
-        "gulp-rename": "^1.2.2",
-        "gulp-uglify": "^2.1.2",
-        "jquery": "^3.2.1",
-        "magnific-popup": "^1.1.0",
-        "scrollreveal": "^3.3.5"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/heroku/node-js-getting-started"
-    },
-    "keywords": [
-        "node",
-        "heroku",
-        "express"
-    ],
-    "license": "MIT"
+  "name": "node-js-getting-started",
+  "version": "0.2.6",
+  "description": "A sample Node.js app using Express 4",
+  "engines": {
+    "node": "6.10.2"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.18.8",
+    "ejs": "2.5.6",
+    "express": "4.15.2",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-header": "^1.8.8",
+    "gulp-less": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.1.2",
+    "jquery": "^3.2.1",
+    "magnific-popup": "^1.1.0",
+    "scrollreveal": "^3.3.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-getting-started"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
 }
