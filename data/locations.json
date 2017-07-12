@@ -1,0 +1,19 @@
+{
+  "locations": [
+	{
+        "name": "First",
+        "mapAddress": "Sofia",
+        "geolocation": "42.6977° N, 23.3219° E"
+    },
+    {
+        "name": "Second",
+        "mapAddress": "Burgas",
+        "geolocation": "42.5048° N, 27.4626° E"
+    },
+    {
+        "name": "Third",
+        "mapAddress": "Varna",
+        "geolocation": "43.2141° N, 27.9147° E"
+    }
+  ]
+}
