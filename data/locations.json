@@ -523,6 +523,131 @@
 			"Latitude": "42.6863866",
 			"Longitude": "23.371597599999973",
 			"Address": "ul. \"Slatinska\", 1574 ж.к. Христо Смирненски, Sofia, Bulgaria"
+		},
+		{
+			"Latitude": "42.6924518",
+			"Longitude": "23.280685500000004",
+			"Address": "bul. \"Nikola Mushanov\" 31, 1330 Sofia, Bulgaria"
+		},
+		{
+			"Latitude": "42.6917119",
+			"Longitude": "23.325725499999976",
+			"Address": "ulitsa „Georgi S. Rakovski“ 147, 1000 Sofia Center, Sofia, Bulgaria"
+		},
+		{
+			"Latitude": "43.4134788",
+			"Longitude": "24.617245899999944",
+			"Address": "bul. \"Danail Popov\" 17A, 5801 Pleven Center, Pleven, Bulgaria"
+		},
+		{
+			"Latitude": "42.7045095",
+			"Longitude": "23.323369800000023",
+			"Address": "пл. „Лъвов мост“ 1, 1202 Sofia Center, Sofia, Bulgaria"
+		},
+		{
+			"Latitude": "42.6892619",
+			"Longitude": "23.307855700000005",
+			"Address": "bul. \"Pencho Slaveykov\" 5, 1606 Sofia Center, Sofia, Bulgaria"
+		},
+		{
+			"Latitude": "42.6184465",
+			"Longitude": "25.39463520000004",
+			"Address": "bul. \"Knyaz Alexander Batenberg\" 1, 6100 Kazanlak, Bulgaria"
+		},
+		{
+			"Latitude": "42.6554341",
+			"Longitude": "23.39870259999998",
+			"Address": "Boulevard \"Professor Tsvetan Lazarov\" 114, 1582 g.k. Druzhba 2, Sofia, Bulgaria"
+		},
+		{
+			"Latitude": "42.6999231",
+			"Longitude": "23.318290100000013",
+			"Address": "ul. \"Pirotska\" 20, 1000 Sofia Center, Sofia, Bulgaria"
+		},
+		{
+			"Latitude": "42.6024127",
+			"Longitude": "23.029859699999975",
+			"Address": "ul. \"Targovska\" 35, 2300 Reno, Pernik, Bulgaria"
+		},
+		{
+			"Latitude": "43.5697721",
+			"Longitude": "27.828732599999967",
+			"Address": "ul. \"Nezavisimost\" 2, 9300 Dobrich Center, Dobrich, Bulgaria"
+		},
+		{
+			"Latitude": "42.1912035",
+			"Longitude": "24.33240360000002",
+			"Address": "ul. \"Konstantin Velichkov\" 12, 4400 Pazardzhik Center, Pazardzhik, Bulgaria"
+		},
+		{
+			"Latitude": "42.7015245",
+			"Longitude": "23.300855400000046",
+			"Address": "ul. \"Dimitar Petkov\" 77, 1309 Sofia Center, Sofia, Bulgaria"
+		},
+		{
+			"Latitude": "42.1560198",
+			"Longitude": "24.743125400000054",
+			"Address": "ul. \"Slivnitsa\" 6, 4003 Karshiaka, Plovdiv, Bulgaria"
+		},
+		{
+			"Latitude": "42.6643919",
+			"Longitude": "23.359987899999965",
+			"Address": "bulevard „Doctor G. M. Dimitrov“ 45, 1797 НПЗ Дианабад, Sofia, Bulgaria"
+		},
+		{
+			"Latitude": "42.6919572",
+			"Longitude": "23.33075830000007",
+			"Address": "ul. \"Slavyanska\" 28, 1000 Sofia Center, Sofia, Bulgaria"
+		},
+		{
+			"Latitude": "41.6441978",
+			"Longitude": "25.36675020000007",
+			"Address": "ul. \"Republikanska\" 41, 6600 Kardzhali Center, Kardzhali, Bulgaria"
+		},
+		{
+			"Latitude": "42.7064985",
+			"Longitude": "23.28588160000004",
+			"Address": "ul. \"Viktor Pavlov\", 1309 ж.к. Илинден, Sofia, Bulgaria"
+		},
+		{
+			"Latitude": "42.671318",
+			"Longitude": "23.258973500000025",
+			"Address": "ul. \"Ljubljana\" 38, 1618 kv. Ovcha kupel, Sofia, Bulgaria"
+		},
+		{
+			"Latitude": "43.2047008",
+			"Longitude": "23.550366899999972",
+			"Address": "ul. \"Nikola Voyvodov\" 1, 3000 Vratsa Center, Vratsa, Bulgaria"
+		},
+		{
+			"Latitude": "43.2510665",
+			"Longitude": "26.571177000000034",
+			"Address": "ul. \"Tsar Simeon\" 1, 7700 Targovishte Center, Targovishte, Bulgaria"
+		},
+		{
+			"Latitude": "42.1416482",
+			"Longitude": "24.74103660000003",
+			"Address": "bul. \"Ruski 54, 4002 Plovdiv, Bulgaria"
+		},
+		{
+			"Latitude": "42.7006637",
+			"Longitude": "23.30724459999999",
+			"Address": "bul. \"Todor Alexandrov\" 11, 1303 Sofia Center, Sofia, Bulgaria"
+		},
+		{
+			"Latitude": "43.8575256",
+			"Longitude": "25.967935399999988",
+			"Address": "ul. \"Yantra\" 12, 7004 g.k. Vazhrazhdane, Ruse, Bulgaria"
+		},
+		{
+			"Latitude": "43.4072058",
+			"Longitude": "23.22414900000001",
+			"Address": "ul. \"Slavyanska\", 3400 Montana Center, Montana, Bulgaria"
+		},
+		{
+			"Latitude": "42.6553345",
+			"Longitude": "23.280497999999966",
+			"Address": "Boulevard \"Bulgaria\" 132, 1618 Manastirski Livadi, Sofia, Bulgaria"
 		}
 	]
 }
