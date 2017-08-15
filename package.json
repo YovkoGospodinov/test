@@ -1,26 +1,26 @@
 {
-    "name": "TestApp",
-    "version": "1.0.0",
-    "description": "Nodejs",
-    "main": "app.js",
-    "scripts": {
-        "start": "node app.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/YovkoGospodinov/test.git"
-    },
-    "keywords": [
-        "test"
-    ],
-    "author": "Yovko",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/YovkoGospodinov/test/issues"
-    },
-    "homepage": "https://github.com/YovkoGospodinov/test",
-    "dependencies": {
-        "express": "^4.15.3",
-        "lowdb": "^0.16.2"
-    }
+  "name": "TestApp",
+  "version": "1.0.0",
+  "description": "Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YovkoGospodinov/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Yovko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YovkoGospodinov/test/issues"
+  },
+  "homepage": "https://github.com/YovkoGospodinov/test",
+  "dependencies": {
+    "express": "^4.15.3",
+    "lowdb": "^0.16.2"
+  }
 }
