@@ -1,6 +1,6 @@
 module.exports = function() {
     function get1(req, res) {
-        res.sendfile('./data/BITZER_PRICE2017.pdf');
+        res.sendfile('./data/Technofriga.pdf');
     }
 
     function get2(req, res) {
